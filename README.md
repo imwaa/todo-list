@@ -1,2 +1,2 @@
 # todo-list
-Todo List made with HTML / CSS &amp; Jquery
+<p> Une simple todo list réalisé afin d'illustrer le jQuery pour une exposition scolaire </p>
